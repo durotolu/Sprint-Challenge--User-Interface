@@ -260,3 +260,18 @@ button {
     width: 100%;
     height: 170px;
 }
+
+.top-content.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    flex-direction: column-reverse;
+}
+
+.text-container.products {
+    width: 100%;
+    border-top: 1px solid black;
+}
