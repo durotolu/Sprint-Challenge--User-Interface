@@ -189,7 +189,7 @@ a {
 }
 
 .about {
-    margin: 20px;
+    margin: 20px 0;
 }
 
 .section2-1 {
@@ -212,4 +212,12 @@ button {
 
 .section2.noDotted {
     border-top: none;
+}
+
+.section3 {
+    margin-bottom: 10px;
+}
+
+#marginSide {
+    margin: 20px;
 }
