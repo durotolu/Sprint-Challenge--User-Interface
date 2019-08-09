@@ -163,6 +163,11 @@ footer nav a {
     justify-content: space-around;
 }
 
+a {
+    text-decoration: none;
+    color: grey;
+}
+
 .section2 {
     display: flex;
 }
