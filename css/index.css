@@ -209,3 +209,7 @@ button {
     background-color: white;
     margin-top: 20px;
 }
+
+.section2.noDotted {
+    border-top: none;
+}
