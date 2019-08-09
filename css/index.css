@@ -255,3 +255,8 @@ button {
 #do {
     background-color: dodgerblue;
 }
+
+.imgProducts {
+    width: 100%;
+    height: 170px;
+}
