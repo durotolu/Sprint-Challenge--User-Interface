@@ -171,3 +171,14 @@ a {
 .section2 {
     display: flex;
 }
+
+#about-nav {
+    color: black;
+}
+
+#header-about {
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
