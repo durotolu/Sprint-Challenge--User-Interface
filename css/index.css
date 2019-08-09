@@ -170,6 +170,11 @@ a {
 
 .section2 {
     display: flex;
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted black;
+    padding: 25px 0;
+    margin-bottom: 40px;
+    flex-direction: column;
 }
 
 #about-nav {
@@ -183,6 +188,24 @@ a {
     margin-bottom: 30px;
 }
 
-.jumbo-about {
+.about {
     margin: 20px;
+}
+
+.section2-1 {
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    margin-top: 10px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 11%;
+    border: 1px solid black;
+    background-color: white;
+    margin-top: 20px;
 }
