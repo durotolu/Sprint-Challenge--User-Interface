@@ -221,3 +221,34 @@ button {
 #marginSide {
     margin: 20px;
 }
+
+#t {
+    background-color: teal;
+}
+#g {
+    background-color: gold;
+}
+#c {
+    background-color: cadetblue;
+}
+#co {
+    background-color: coral;
+}
+#cr {
+    background-color: crimson;
+}
+#f {
+    background-color: forestgreen;
+}
+#d {
+    background-color: darkorchid;
+}
+#h {
+    background-color: hotpink;
+}
+#i {
+    background-color: indigo;
+}
+#do {
+    background-color: dodgerblue;
+}
