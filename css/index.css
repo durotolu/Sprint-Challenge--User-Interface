@@ -274,4 +274,17 @@ button {
 .text-container.products {
     width: 100%;
     border-top: 1px solid black;
+    animation-name: products;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    animation-iteration-count: 5;
+    animation-direction: alternate-reverse;
+    animation-timing-function: ease-out;
+}
+
+@keyframes products {
+    0% {background-color: blueviolet;}
+    30% {background-color: dimgray;}
+    60% {background-color: darkgoldenrod;}
+    100% {background-color: coral;}
 }
