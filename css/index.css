@@ -288,3 +288,23 @@ button {
     60% {background-color: darkgoldenrod;}
     100% {background-color: coral;}
 }
+
+.top-content.contact {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    flex-direction: row;
+    height: 600px;
+}
+
+#holla {
+    text-align: center;
+    font-size: 100px;
+}
+
+.imgcontact {
+    height: 550px;
+}
