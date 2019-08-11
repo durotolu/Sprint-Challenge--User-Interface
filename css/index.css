@@ -308,3 +308,15 @@ button {
 .imgcontact {
     height: 550px;
 }
+
+.input {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    font-size: 25px;
+    margin: 90px 0;
+}
+
+input {
+    display: inline-block;
+}
